@@ -137,10 +137,3 @@
     padding-right: 1rem;
     border-radius: 1rem;
 }
-
-.nav-link.active{
-    color: yellow;
-    background-color:none; 
-    border-color:none;
-    border-bottom: 3px solid yellow;
-}
